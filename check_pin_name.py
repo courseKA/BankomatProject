@@ -42,7 +42,7 @@ def check_name_pin():
                 except:
                     print('Wrong input. Try again')  
                     break                        
-        break
+            break
         elif pin_input != pin1:
             print('Wrong pin code.')
             i += 1
