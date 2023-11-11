@@ -1,6 +1,6 @@
-import check_pin_name
-import menu
+import check
+import main_menu
 
 if __name__ == '__main__':
-    check_pin_name()
-    menu()
+    check()
+    main_menu()
