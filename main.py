@@ -1,16 +1,11 @@
 if __name__ == '__main__':
     pass
-
-
-
 def users_data():    
     DATA = {'Kalin':123, 'Ivan':456}
     BALANCE ={'Kalin':500, 'Ivan':1500}
     
 
 users_data()
-
-
 def menu():
     print("Make a choice - write 1 to 3: ")
     MENU = (
