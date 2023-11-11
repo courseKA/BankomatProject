@@ -1,4 +1,4 @@
-def menu(user_input, int):
+def menu():
     
     print("Make a choice - write 1 to 3: ")
     MENU = (
