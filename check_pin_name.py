@@ -1,3 +1,5 @@
+import menu
+
 data = {'Kalin': 123, 'Ivan': 456 }
 balance = {'Kalin': 500, 'Ivan': 4500 }
 
@@ -16,7 +18,7 @@ def check_name_pin():
         pin1 = int(data[name])
         if pin1 == pin_input:
             print('Login Successful')
-            import menu
+            
 
             while True:
                 try:
