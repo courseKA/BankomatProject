@@ -1,0 +1,6 @@
+import check_pin_name
+import menu
+
+if __name__ == '__main__':
+    check_pin_name()
+    menu()
