@@ -21,7 +21,7 @@ for i in range(3):
         print('1  Balance Inquiry')
         print('2  Withdraw')
         print('3  Deposit')
-
+    
         while True:
             try:
                 choice = int(input('Enter your choice:'))
