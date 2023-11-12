@@ -1,4 +1,4 @@
-import menu
+import main_menu
 
 data = {'Kalin': 123, 'Ivan': 456 }
 balance = {'Kalin': 500, 'Ivan': 4500 }
