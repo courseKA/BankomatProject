@@ -10,6 +10,4 @@ def menu():
     for i, choice in enumerate(MENU, start=1):
         print(f"{i}.  {choice}")
         
-    
-
 menu()
